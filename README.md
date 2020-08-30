@@ -1,14 +1,15 @@
-# terraform-faq
+#### Questions to refresh your memory of Terraform (WIP)
+
+<hr>
 
 <details>
-<summary>Do resources usually have relationships with each other?</summary>
-Not unless <b>depends_on </b>is set
+<summary>Do resources usually have defined relationships with each other?</summary>
+Not unless the <b>depends_on</b> meta-argument is set.
 <br></details>
 
 <details>
 <summary>The _____ meta-argument selects non-default configuration inside a provider block.</summary>
 <b>alias</b>
-<img src="paste-35392ed3014e2435d2458b9f16508840e039dfb1.jpg">
 <br></details>
 
 <details>
